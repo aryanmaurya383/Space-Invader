@@ -1,4 +1,4 @@
-# Space-Invader
+# Space-Invader-With-OpenCV
 Space Invader game with openCv hand control
 
 This is a basic Space Invader game we used to play when we were kids. 
